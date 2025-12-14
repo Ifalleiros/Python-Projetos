@@ -1,8 +1,11 @@
 # Sistema de Cadastro em Python
 
-Projeto para praticar:
-- Uso de dicionários
-- Estruturas condicionais
-- Laços de repetição
+Projeto desenvolvido para praticar conceitos básicos da linguagem Python.
 
-Objetivo: fixar conceitos básicos de Python.
+## 📌 Conceitos praticados
+- Uso de dicionários
+- Estruturas condicionais (if, elif, else)
+- Laços de repetição (while)
+
+## 🎯 Objetivo
+Fixar conceitos básicos de Python e desenvolver lógica de programação por meio de um sistema simples executado no terminal.
